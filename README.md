@@ -1,6 +1,6 @@
 # Bioshit
 
-Because NCBI needs better documentation.
+Because I'm tired of digging thru my browser history.
 
 **TODO:**
 - std out
