@@ -18,3 +18,5 @@ Because I'm tired of digging thru my browser history.
 - dotfiles
 - zsh
 - databases
+- sequencher alts.
+- benchling
